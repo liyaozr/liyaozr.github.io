@@ -1,11 +1,11 @@
 # Site settings
 title: FTD
-SEOTitle: Thanks-moon | FTD
+SEOTitle: liyaozr | FTD
 header-img: img/post-bg-rwd.png
 email: lyz_foedream@163.com
 description: "心之所向，素履所往"
 keyword: "前端"
-url: "https://thanks-moon.github.io"          # your host, for absolute URL
+url: "https://liyaozr.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -19,8 +19,8 @@ sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both
 # SNS settings
 RSS: false
 weibo_username:     2845760932
-zhihu_username:     Thanks丶Moon
-github_username:    thanks-moon
+zhihu_username:     liyaozr
+github_username:    liyaozr
 # facebook_username:  baiying.qiu.7
 jianshu_username:   93987448fc02
 # twitter_username:   qiubaiying
