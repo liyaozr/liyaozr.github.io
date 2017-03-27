@@ -214,7 +214,7 @@ td, th {
     abbr[title]:after {
         content: " (" attr(title) ")"
     }
-    a[href^="javascript:"]:after, a[href^="❤"]:after {
+    a[href^="javascript:"]:after, a[href^="#"]:after {
         content: ""
     }
     blockquote, pre {
