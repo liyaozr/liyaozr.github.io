@@ -4,7 +4,7 @@ SEOTitle: liyaozr | FTD
 header-img: img/post-bg-rwd.png
 email: lyz_foedream@163.com
 description: "心之所向，素履所往"
-keyword: "前端"
+keyword: "前端,web,html,js,css,jquery"
 url: "https://liyaozr.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -54,16 +54,8 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 
-# Disqus settings
-# disqus_username: _your_disqus_short_name_
-
-# Duoshuo settings
-duoshuo_username: 锦然此夜笙丶
-# Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-
-
-
+ Disqus settings
+ disqus_username: liyaozr
 
 # Analytics settings
 # Baidu Analytics
