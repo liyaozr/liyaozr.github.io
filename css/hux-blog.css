@@ -134,14 +134,14 @@ body {
      *     TypeIsBeautiful,
      *     [This Post](http://zhuanlan.zhihu.com/ibuick/20186806) etc.
      */
-  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+  font-family: "Microsoft YaHei",-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Arial", "PingFang SC", "Hiragino Sans GB", "STHeiti", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
-  font-size: 16px;
+  font-size: 14px;
   color: #404040;
   overflow-x: hidden;
 }
 p {
-  margin: 30px 0;
+  margin: 15px 0;
 }
 h1,
 h2,
@@ -159,7 +159,7 @@ h6 {
   font-weight: bold;
 }
 h4 {
-  font-size: 21px;
+  font-size: 19px;
 }
 a {
   color: #404040;
@@ -226,6 +226,7 @@ pre code {
   width: auto;
   white-space: pre-wrap;
   word-wrap: normal;
+  font-family: Consolas, Menlo, Monaco, "Courier New", monospace;
 }
 .postlist-container {
   margin-bottom: 15px;
@@ -246,17 +247,15 @@ pre code {
   margin: 30px 0 10px;
 }
 .post-container h5 {
-  font-size: 19px;
+  font-size: 16px;
   font-weight: 600;
-  color: gray;
 }
 .post-container h5 + p {
   margin-top: 5px;
 }
 .post-container h6 {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
-  color: gray;
 }
 .post-container h6 + p {
   margin-top: 5px;
