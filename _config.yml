@@ -1,10 +1,10 @@
 # Site settings
-title: FTD
-SEOTitle: liyaozr | FTD
+title: "FTD"
+SEOTitle: "liyaozr | FTD"
 header-img: img/post-bg-rwd.png
-email: lyz_foedream@163.com
+email: "lyz_foedream@163.com"
 description: "心之所向，素履所往"
-keyword: "前端,web,html,js,css,jquery"
+keyword: "前端, web, html, js, css, jquery"
 url: "https://liyaozr.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -18,9 +18,9 @@ sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both
 
 # SNS settings
 RSS: false
-weibo_username:     2845760932
-zhihu_username:     liyaozr
-github_username:    liyaozr
+weibo_username: 2845760932
+zhihu_username: liyaozr
+github_username: liyaozr
 # facebook_username:  baiying.qiu.7
 jianshu_username:   93987448fc02
 # twitter_username:   qiubaiying
@@ -55,7 +55,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 # Disqus settings
- disqus_username: liyaozr
+disqus_username: liyaozr
 
 # Analytics settings
 # Baidu Analytics
@@ -84,9 +84,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
-    },{
         title: "简书·故笙",
         href: "http://www.jianshu.com/u/93987448fc02"
     }
