@@ -54,7 +54,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 
- Disqus settings
+# Disqus settings
  disqus_username: liyaozr
 
 # Analytics settings
